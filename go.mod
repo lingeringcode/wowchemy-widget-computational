@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-widget-starter
+module github.com/lingeringcode/wowchemy-widget-computational
 
 go 1.15
